@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightTicketsAPI", "FlightTicketsAPI\FlightTicketsAPI.csproj", "{5DB84CD7-383D-4B3A-A725-2836CEF325AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightTicketsAPI.Domain", "FlightTicketsAPI.Domain\FlightTicketsAPI.Domain.csproj", "{7E8D7E96-CCB8-49A4-BEA3-F27334EA5A53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5DB84CD7-383D-4B3A-A725-2836CEF325AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB84CD7-383D-4B3A-A725-2836CEF325AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB84CD7-383D-4B3A-A725-2836CEF325AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8D7E96-CCB8-49A4-BEA3-F27334EA5A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8D7E96-CCB8-49A4-BEA3-F27334EA5A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8D7E96-CCB8-49A4-BEA3-F27334EA5A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8D7E96-CCB8-49A4-BEA3-F27334EA5A53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
